@@ -1,0 +1,5 @@
+com\abhinash\inventoryservice\service\InventoryService.class
+com\abhinash\inventoryservice\controller\InventoryController.class
+com\abhinash\inventoryservice\InventoryServiceApplication.class
+com\abhinash\inventoryservice\domain\Inventory.class
+com\abhinash\inventoryservice\repository\InventoryRepository.class
